@@ -1,8 +1,13 @@
 # Class-11-python-programs
 Language:- Python
-1. Fundamentals
-2. Conditionals
-3. Strings, lists, tuples, dictionaries
-4. Loops
-5. Modules
+
+1️⃣ Fundamentals
+
+2️⃣ Conditionals
+
+3️⃣ Strings, lists, tuples, dictionaries
+
+4️⃣ Loops
+
+5️⃣ Modules
 
